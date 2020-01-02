@@ -10,5 +10,3 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   BASE_HOA[:third_earthers] << 'Snarf'
 end
-
-add_character(:third_earthers, "Snarf")
